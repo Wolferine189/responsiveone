@@ -1,0 +1,100 @@
+@media (max-width: 600px){
+    .bars{
+        display:block;
+    }
+    .data input{
+        width: 180px;
+        height: 30px;
+        border-radius:5px;
+        font-size: 14px;
+        color: #0B0C10;
+        border: 1px solid silver;
+        background-color: transparent;
+        color:#fff;
+        margin: 10px 0px;
+    
+    }
+    .data textarea{
+        font-size: 12px;
+        color: #0B0C10;
+        border: 1px solid silver;
+        background-color: transparent;
+        color:#fff;
+        padding: 5px;
+    }
+    .data{
+        display: block;
+        transform: translate(15%,25%);
+        width: 300px;
+        height: 250px;
+        background-color: #1F2833;
+    
+    
+    }
+
+    .header{
+        height:auto;
+    }
+    .option ul{
+        display: block;
+    }
+    .logo a{
+        color: #000;
+        text-decoration: none;
+    }
+    
+    .option ul li a:hover{
+        color: #000;
+    }
+
+    .contain h1{
+        font-size: 45px;
+    }
+    #uls{
+        display: none;
+    }
+    .header{
+        background-color:#45A29F ;
+      
+    }
+    #uls{
+        margin: 50px 0px;
+    }
+    .contain p{
+        font-size: 16px;
+    }
+    #bars:hover,#times:hover{
+        color: #000;
+
+    }
+    .items{
+        display: block;
+    }
+    .Services{
+        height: 100vh;
+
+    }
+  .items{
+    transform: translate(0%,1%);
+    align-items: center;
+  }
+  .col{
+      margin-bottom: 10px;
+      width: 300px;
+     
+  }
+  .Services{
+      height:auto;
+  }
+}
+.Services h1{
+    color: #C5C6C7;
+    font-family: 'Hubballi', cursive ;
+    text-decoration: 3px solid #C5C6C7;
+    font-size: 40px;
+    padding: 10px;
+
+}
+.Services{
+    text-align: center;
+}
